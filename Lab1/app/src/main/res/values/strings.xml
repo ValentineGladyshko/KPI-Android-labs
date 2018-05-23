@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="text_field_res">Введіть назву</string>
+    <string name="red_res">Червоний</string>
+    <string name="color_res">Колір:</string>
+    <string name="orange_res">Оранжевий</string>
+    <string name="yellow_res">Жовтий</string>
+    <string name="ok_res">OK</string>
+    <string name="end_res">до:</string>
+    <string name="start_res">Ціна від:</string>
+    <string name="violet_res">Фіолетовий</string>
+    <string name="blue_res">Синій</string>
+    <string name="cyan_res">Голубий</string>
+    <string name="green_res">Зелений</string>
+    <string name="name_res">Назва:</string>
+    <string name="_0">0</string>
+    <string name="price_res">Ціна:</string>
+</resources>
